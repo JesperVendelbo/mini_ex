@@ -1,4 +1,6 @@
 https://rawgit.com/JesperVendelbo/mini_ex/master/mini_ex2/empty-example/index.html
-
-
 ![ALT TEXT](https://github.com/JesperVendelbo/mini_ex/blob/master/mini_ex2/Sk%C3%A6rmbillede%202018-02-19%20kl.%2013.07.43.png)
+
+For this mini_ex I wanted to do something really simple, so that I could learn some more about the basics of programming. So I came up with the idea of making a simple bowling game, with 6 cones and 1 ball. I couldn’t make it as advanced as I wanted to, so it ended up being an ellipse travelling from the right side of the canvas towards some cones in the left side. When the two shapes collide, I wanted the cones to move or disappear in the canvas. I couldn’t figure out how to do that, so it ended with a text “STRIKEE!” appearing when the two shapes collide instead. For this I used the if statement. If the ellipse’s x value is under 140 then the text will appear. The text will also get bigger and bigger. For that purpose, I used a variable that will increase the text size.
+
+In relation to fun I would like to bring in a quote from Goriunova’s text: “"Humour here is indicative of the pleasure of breakthrough”(p.2). Bowling is a game of breakthroughs. It is a game of satisfaction when you hit a strike. I wish I could figure out how to make the cones disappear, but instead the strike text shows that you just made a strike. For a future task, I could make a program where the cones could move aside. 
