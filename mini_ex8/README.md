@@ -1,6 +1,6 @@
 https://rawgit.com/JesperVendelbo/mini_ex/master/mini_ex8/empty-example/index.html (if the program doesn't run, then click on the lock in the search bar in the browser (Firefox) and allow an unsecure connection.)
 
-(!alt text)[https://github.com/JesperVendelbo/mini_ex/blob/master/mini_ex8/Sk%C3%A6rmbillede%202018-04-09%20kl.%2022.18.00.png]
+![alt text](https://github.com/JesperVendelbo/mini_ex/blob/master/mini_ex8/Sk%C3%A6rmbillede%202018-04-09%20kl.%2022.18.00.png)
 
 This mini_ex has been made in collaboration with Mark Nielsen and Thomas Matthiesen. When we tried to figure out what API to implement into our program, we were looking for simple API’s as e.g. a weather forecast. But then We found one that can position Mercury, Venus, Earth, Mars and Jupiter in every position they’ve had since year 0. For our program we have only used the different positions down until year 1900 and then up until 2050.
 Our program gets these positions of the planets as a x-, y- and a z-position from the API and in that way forms a 3D visualisation. This is the API we have used http://www.astro-phys.com/api. So our program can show the positions of the 5 planets for every month since 1900.
