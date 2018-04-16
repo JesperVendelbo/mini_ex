@@ -1,5 +1,6 @@
  Link to my mini_ex6 which is what my flowchart is based on: https://github.com/JesperVendelbo/mini_ex/tree/master/mini_ex66
- The main thing that I think is difficult when making a flowchart on code, is to know what is important to illustrate. We've tried in the group to make a flowchart with the original syntax from the code, but when many sentences of code gets illustrated in a flowchart, then it easily becomes confusing. 
+ 
+The main thing that I think is difficult when making a flowchart on code, is to know what is important to illustrate. We've tried in the group to make a flowchart with the original syntax from the code, but when many sentences of code gets illustrated in a flowchart, then it easily becomes confusing. 
  
  
 Ideas for the final project
