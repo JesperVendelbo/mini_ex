@@ -11,3 +11,6 @@ The flowchart we have made for this idea is based on an algorithm that is suppos
 
 2. The second idea and flowchart
 Our idea for the second flowchart is in the same category as our first idea. Instead of a program that removes adjectives, we want this program to have an input field where you can write different words you don’t want to read articles about. So like our first idea the program will get an article or some other content from a website, and then analyse the content for the keywords that you didn’t want to see. This program gives the users some control of what they are going to look at online by choosing what not to see. 
+
+How are the group's flowcharts different from my own?
+Both our ideas are for web extensions rather than programs in themselves. Therefore they don't really have to create something from scratch, but instead look at what is already there on the pages that you visit, analyze it and then somehow change it.
