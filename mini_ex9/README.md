@@ -1,4 +1,8 @@
- Ideas for the final project
+ Link to my mini_ex6 which is what my flowchart is based on: https://github.com/JesperVendelbo/mini_ex/tree/master/mini_ex66
+ The main thing that I think is difficult when making a flowchart on code, is to know what is important to illustrate. We've tried in the group to make a flowchart with the original syntax from the code, but when many sentences of code gets illustrated in a flowchart, then it easily becomes confusing. 
+ 
+ 
+Ideas for the final project
 Idea: Neuralizer of web content
 We mainly want to focus on the topic of code and language in the digital culture. We want to create a program that can manipulate what is visually accessible to you, and often forced upon you while you are engaged in the digital world. We want to challenge the lacking of control of the contemporary constant feeds and data streams that we experience on the web. This by creating something that affords the individual to choose and take control of what is shown to them and therefore make web content from external sources less powerful (ex. the browser extension AdBlock).
 Our ideas strives from a program that removes adjectives, to one that neutralizes genders or even one that can change negative words into positive ones. To make a program with functions like these, we will have to make a web extension that is able to examine the content of the current webpage and be able replace or manipulate it.
